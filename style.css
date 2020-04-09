@@ -1,0 +1,69 @@
+
+body{
+    margin:0;
+  }
+  header{
+  
+    background-image: url('wood.jpg');
+    color:white;
+    padding:8px 0px 6px 40px;
+    height:50px;
+  }
+  header h1{
+  
+      font-size:50px;
+      float:left;
+      margin-top:0px;
+      margin-right:20px;
+      
+  }
+  nav ul{
+      
+      padding:0;
+      float:left;
+  }
+  nav ul li{
+      display:inline-block;
+      list-style-type:none;
+      float:left;
+      margin-right:12px;
+  }
+  nav ul li a{
+      font-size:25px;
+      color:black;
+      text-decoration:none;
+  }
+  .homered{
+      background-color: whitesmoke;
+      padding:30px 10px 12px 10px;
+  }
+  .divider{
+      background-color:brown;
+      height:7px;
+  }
+  .homeblack:hover{
+  
+      background-color:whitesmoke;
+      padding:30px 10px 12px 10px;
+  }
+  body h2{
+      font-weight:light;
+      color:black;
+      font-size: 55px;
+      padding:2% 35% 5% 29%;
+      float:left;
+      margin:0.5% 2% 0% 0%;
+      
+  }
+  body h3{
+      text-decoration:none;
+      float:left;
+      margin:0% 0% 0% 0%;
+      padding:0% 0% 0% 13%;
+      color:black;
+      font-size:28px;
+      
+  }
+      
+  
+  
